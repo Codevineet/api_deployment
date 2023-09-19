@@ -4,7 +4,7 @@
   "description": "Learning Node",
   "main": "server.js",
   "engine":{
-    "node": ">=14.20.1"
+    "node": ">=18.14.1"
   },
   "scripts": {
     "start":"node server.js",
